@@ -19,7 +19,7 @@ export default function Login() {
                     </TextInput>
                 </View>
                 <View style={styles.btn}>
-                    <Button title= "Press Me" color='#E05388'>
+                    <Button title= "START" color='#E05388'>
                     </Button>
                 </View>
                 <View style ={styles.vazio}>
